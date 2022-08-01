@@ -1,0 +1,17 @@
+.w-450 {
+	width: 450px;
+}
+/* .w-420{
+	width: 420px;
+} */
+.vh-100 {
+	min-height: auto;
+}
+.left{
+	width: 400px;
+	border: 2px solid #0002;
+	margin: 20px 40px;
+}
+.grads{
+	width: 250px;
+}
